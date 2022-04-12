@@ -1,17 +1,17 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "",
+    "password": "Gold3621",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "Vcraft1.aternos.me",
+    "port": 14598,
+    "version": "1.18.10"
   },
 
-  "position": {
+ position": {
     "enabled": false,
     "x": 0,
     "y": 0,
